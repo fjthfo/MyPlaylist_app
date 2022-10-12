@@ -1,4 +1,4 @@
-package com.example.myplaylist;
+//package com.example.myplaylist;
 
 //public class Music {
 //    private int imageResourceID;
